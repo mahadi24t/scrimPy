@@ -23,3 +23,9 @@ i = str(22)       # i will be '22'
 j = str(3.01)     # j will be '3.01'
 
 print([a,b,c,d,e,f,g,h,i,j])
+
+
+item_name = 'widget'
+price = 55.5 
+
+print(item_name + 'price is: ' + str(price) )
